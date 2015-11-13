@@ -1,0 +1,16 @@
+{
+  "name": "scale-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "wzrd index.js"
+  },
+  "keywords": [],
+  "author": "David Guttman <david@guttman.io> (http://davidguttman.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "authentic-client": "0.0.3",
+    "wzrd": "^1.3.1"
+  }
+}
